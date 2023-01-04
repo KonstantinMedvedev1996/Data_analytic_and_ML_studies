@@ -1,6 +1,6 @@
 # SIMPLE CASES STUDIES
 
-## Table_Of_Contents 
+## Table Of Contents 
 [1. Cources solution](./README.md#courses_solution)  
 <!-- [2. Какой кейс решаем?](./README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](./README.md#Краткая-информация-о-данных)  
@@ -12,7 +12,7 @@
 Finding out the most popular cource of an on-line education platform
 Solution cab be found in  [notebook](courses_solution.ipynb)**
 
-:arrow_up: [Back To Table Of Content](./README.md#Table_of_Contents)
+:arrow_up: [Back To Table Of Content](./README.md#Table-of-Contents)
 
 <!-- ### Какой кейс решаем?    
 Анализируем данные по оттоку клиентов банка, устанавливаем, чем ушедшие клиенты отличаются от лояльных, и как между собой связаны различные признаки, определяющие клиентов
