@@ -10,7 +10,7 @@
 
 ### 1_courses_solution    
 Finding out the most popular cource of an on-line education platform
-Solution cab be found in  [notebook](churn_visualization.ipynb)**
+Solution cab be found in  [notebook](courses_solution.ipynb)**
 
 :arrow_up: [Back To Table Of Content](./README.md#Table of Contents)
 
