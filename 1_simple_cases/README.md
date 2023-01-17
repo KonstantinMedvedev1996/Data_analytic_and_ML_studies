@@ -14,6 +14,13 @@ Solution cab be found in  [notebook](courses_solution.ipynb)**
 
 :arrow_up: [Back To Table Of Content](./README.md#Table-of-Contents)
 
+### 2_booking_solution    
+Analyzing the churn of hotel reservation
+Solution cab be found in  [notebook](booking_solution.ipynb)**
+
+:arrow_up: [Back To Table Of Content](./README.md#Table-of-Contents)
+
+
 <!-- ### Какой кейс решаем?    
 Анализируем данные по оттоку клиентов банка, устанавливаем, чем ушедшие клиенты отличаются от лояльных, и как между собой связаны различные признаки, определяющие клиентов
 
